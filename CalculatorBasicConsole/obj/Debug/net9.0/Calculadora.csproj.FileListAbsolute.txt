@@ -26,3 +26,4 @@ C:\Users\KaueCMP2\Documents\CalculatorProj\CalculatorBasicConsole\obj\Debug\net9
 C:\Users\KaueCMP2\Documents\CalculatorProj\CalculatorBasicConsole\obj\Debug\net9.0\Calculadora.pdb
 C:\Users\KaueCMP2\Documents\CalculatorProj\CalculatorBasicConsole\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
 C:\Users\KaueCMP2\Documents\CalculatorProj\CalculatorBasicConsole\obj\Debug\net9.0\ref\Calculadora.dll
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculatorBasicConsole\obj\Debug\net9.0\Calculadora.sourcelink.json
