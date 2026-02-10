@@ -1,0 +1,11 @@
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\bin\Debug\CalculadoraMedia.exe.config
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\bin\Debug\CalculadoraMedia.exe
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\bin\Debug\CalculadoraMedia.pdb
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\obj\Debug\CalculadoraMedia.csproj.AssemblyReference.cache
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\obj\Debug\CalculadoraMedia.Form1.resources
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\obj\Debug\CalculadoraMedia.Properties.Resources.resources
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\obj\Debug\CalculadoraMedia.csproj.GenerateResource.cache
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\obj\Debug\CalculadoraMedia.csproj.CoreCompileInputs.cache
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\obj\Debug\CalculadoraMedia.exe
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\obj\Debug\CalculadoraMedia.pdb
+C:\Users\KaueCMP2\Documents\CalculatorProj\CalculadoraMedia\CalculadoraMedia\obj\Debug\CalculadoraMedia.exe.config
